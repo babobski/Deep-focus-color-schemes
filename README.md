@@ -6,17 +6,17 @@ Color shemes adapted for the [Deep focus skin](https://github.com/babobski/Deep-
 ## Dracula
 <img src="dracula-screenshot.png" alt="Dracula">
 
-## Flasty
-<img src="flasty-screenshot.png" alt="Soda Dark">
-
 ## Soda dark
 <img src="soda-dark-screenshot.png" alt="Soda Dark">
 
 ## Monokai
 <img src="monokai-screenshot.png" alt="Monokai">
 
-## Monokai Purlple
+## Monokai Purple
 <img src="monokai-purple-screenshot.png" alt="Monokai Purple">
+
+## Flasty
+<img src="flasty-screenshot.png" alt="Soda Dark">
 
 
 
